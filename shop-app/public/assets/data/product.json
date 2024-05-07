@@ -1,0 +1,7 @@
+[
+    {"id":1001, "name":"Mobile", "brand":"OnePlus", "price":34000.00},
+    {"id":1002, "name":"Laptop", "brand":"HP", "price":95000.00},
+    {"id":1003, "name":"UHD TV", "brand":"Sony", "price":89999.00},
+    {"id":1004, "name":"Mobile", "brand":"Oppo", "price":15700.00},
+    {"id":1005, "name":"Music System", "brand":"JBL", "price":26000.00}
+]
